@@ -1,0 +1,12 @@
+#para {
+    text-align: center;
+color: blueviolet;  text-align-last: center;width:50%;
+  }
+.back {
+    background-color: lightblue;
+  }
+  .bord {border:2px solid Tomato; text-shadow: 2px 2px red; font-family: 'Itim', cursive; text-align: center}
+  .shut {
+    text-shadow: 2px 2px red;
+  }
+  
